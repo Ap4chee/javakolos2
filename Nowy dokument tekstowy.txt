@@ -1,2 +1,3 @@
 https://github.com/mdpiekarz/java_lab_2024/tree/master/.idea
 https://github.com/umcspro/svgproject
+https://github.com/mdpiekarz/java_lab_2024/tree/master/GUIClient
